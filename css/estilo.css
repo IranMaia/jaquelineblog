@@ -71,3 +71,20 @@ h2{
     display: block;
     border-bottom: 1px solid #f4f4f4;
 }
+
+#area-lateral{
+    width: 240px;
+}
+
+.conteudo-lateral{
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+
+}
